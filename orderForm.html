@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Order Form</title>
+</head>
+
+<body>
+  <h1>Raspberry Pi</h1>
+  <h2>Order Form</h2>
+
+  <div>
+    <form>
+      <label for="name">Name</label>
+      <br>
+      <input type="text">
+      <br>
+
+      <label for="phone-number">Phone Number</label>
+      <br>
+      <input type="tel">
+      <br>
+
+      <label for="email">E-mail</label>
+      <br>
+      <input type="email">
+      <br>
+
+      <label for="amount">Amount</label>
+      <br>
+      <input type="number" min="1" max="50">
+      <br>     
+      
+      <label for="dessert">Choose a Dessert:</label>
+      <br>
+      <select name="desserts" id="desserts">
+        <option value="cake">Cake</option>
+        <option value="pie">Pie</option>
+        <option value="cupcake">Cupcake</option>
+      </select>
+      <br>
+
+      <label for="description">Description</label>
+      <br>
+      <textarea></textarea>
+      <br>
+
+      <label for="flavors">Choose the Flavors:</label>
+      <br>
+      <div>
+        <table>
+          <tr>
+            <th>Cake</th>
+            <th>Pie</th>
+            <th>Cupcake</th>
+          </tr>
+          <tr>
+            <td>
+              <input type="checkbox"><label for="chocolate">Chocolate</label>
+            </td>
+            <td>
+              <input type="checkbox"><label for="apple">Apple</label>
+            </td>
+            <td>
+              <input type="checkbox"><label for="blueberry">Blueberry</label>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <input type="checkbox"><label for="strawberry">Strawberry</label>
+            </td>
+            <td>
+              <input type="checkbox"><label for="blackberry">Blackberry</label>
+            </td>
+            <td>
+              <input type="checkbox"><label for="strawberry">Strawberry</label>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <input type="checkbox"><label for="vanilla">Vanilla</label>
+            </td>
+            <td>
+              <input type="checkbox"><label for="blueberry">Blueberry</label>
+            </td>
+            <td>
+              <input type="checkbox"><label for="chocolate">Chocolate</label>
+            </td>
+          </tr>
+          <tr>
+            <td />
+            <td>
+              <input type="checkbox"><label for="pineapples">Pineapples</label>
+            </td>
+            <td>
+              <input type="checkbox"><label for="vanilla">Vanilla</label>
+            </td>
+          </tr>
+          <tr>
+            <td />
+            <td>
+              <input type="checkbox"><label for="raspberry">Raspberry</label>
+            </td>
+            <td />
+          </tr>
+        </table>
+      </div>
+
+      <label for="toppings">Choose the Toppings:</label>
+      <br>
+      <div>
+        <table>
+          <tr>
+            <th>Cake</th>
+            <th>Pie</th>
+            <th>Cupcake</th>
+          </tr>
+          <tr>
+            <td>
+              <input type="checkbox"><label for="almonds">Almonds</label>
+            </td>
+            <td>
+              <input type="checkbox"><label for="chocolate-shavings">Chocolate Shavings</label>
+            </td>
+            <td>
+              <input type="checkbox"><label for="almonds">Almonds</label>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <input type="checkbox"><label for="coconuts">Coconuts</label>
+            </td>
+            <td>
+              <input type="checkbox"><label for="pineapples">Pineapples</label>
+            </td>
+            <td>
+              <input type="checkbox"><label for="chocolate-shavings">Chocolate Shavings</label>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <input type="checkbox"><label for="strawberries">Strawberries</label>
+            </td>
+            <td>
+              <input type="checkbox"><label for="raspberries">Raspberries</label>
+            </td>
+            <td>
+              <input type="checkbox"><label for="granola">Granola</label>
+            </td>
+          </tr>
+          <tr>
+            <td />
+            <td>
+              <input type="checkbox"><label for="crushed-oreos">Crushed Oreos</label>
+            </td>
+            <td>
+              <input type="checkbox"><label for="sprinkles">Sprinkles</label>
+            </td>
+          </tr>
+          <tr>
+            <td />
+            <td>
+              <input type="checkbox"><label for="mnms">m&m's</label>
+            </td>
+            <td />
+          </tr>
+        </table>
+      </div>
+
+      <button type="submit">Finish Order</button>
+
+    </form>
+  </div>
+</body>
+
+</html>
