@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The focus of this project is design html only web pages by a given case. Where our duty is create pages for the clients and cooks displaying info like: Menu, order form, ingredients in stock, and orders list.
+The focus of this project is design html only web pages by a [given case][launchx-case]. Where our duty is create pages for the clients and cooks displaying info like: Menu, order form, ingredients in stock, and orders list.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -70,5 +70,4 @@ Project Link: [https://github.com/javiermendez-coder/LaunchX-FrontEnd-01-html](h
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[template]: https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/blob/main/03%20-%20CSS/practica/landingVacunaci%C3%B3n.png
-[author]: https://dribbble.com/Adhiari_is
+[launchx-case]: https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/tree/main/02%20-%20HTML/practicas
