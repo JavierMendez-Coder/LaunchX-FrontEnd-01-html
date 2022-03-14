@@ -32,6 +32,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#website-screenshots">Website Screenshots</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -45,6 +46,24 @@
 ## About The Project
 
 The focus of this project is design html only web pages by a [given case][launchx-case]. Where our duty is create pages for the clients and cooks displaying info like: Menu, order form, ingredients in stock, and orders list.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+### Site screenshot
+
+User's webpages:
+
+![menu](images/miscellaneous/menu.png)
+
+![order-form](images/miscellaneous/order-form.png)
+
+Cook's webpages:
+
+![ingredients-in-stock](images/miscellaneous/ingredients-in-stock.png)
+
+![orders-list](images/miscellaneous/orders-list.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
