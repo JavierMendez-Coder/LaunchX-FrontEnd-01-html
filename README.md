@@ -12,7 +12,7 @@
 <h3 align="center">Launch X - Front-end HTML</h3>
 
   <p align="center">
-    Assignments from the second week of Launch X's frontend introduction course.
+    Assignment from the second week of Launch X's frontend introduction course
     <br />
     <a href="https://github.com/javiermendez-coder/LaunchX-FrontEnd-01-html"><strong>Explore the docs »</strong></a>
     <br />
@@ -80,7 +80,7 @@ Cook's webpages:
 <!-- CONTACT -->
 ## Contact
 
-Your Name - javiermendez0299@gmail.com
+Javier Méndez - javiermendez0299@gmail.com
 
 Project Link: [https://github.com/javiermendez-coder/LaunchX-FrontEnd-01-html](https://github.com/javiermendez-coder/LaunchX-FrontEnd-01-html)
 
